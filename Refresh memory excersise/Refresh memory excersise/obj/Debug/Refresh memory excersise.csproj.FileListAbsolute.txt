@@ -1,0 +1,12 @@
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\bin\Debug\Refresh memory excersise.exe.config
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\bin\Debug\Refresh memory excersise.exe
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\bin\Debug\Refresh memory excersise.pdb
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh memory excersise.csprojAssemblyReference.cache
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh_memory_excersise.frmHome.resources
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh_memory_excersise.frmLogin.resources
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh_memory_excersise.Properties.Resources.resources
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh memory excersise.csproj.GenerateResource.cache
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh memory excersise.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh memory excersise.exe
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh memory excersise.pdb
+C:\Users\User\Documents\. Vrije Tijd Programmeren\Refresh memory excersise\Refresh memory excersise\obj\Debug\Refresh_memory_excersise.frmCreateAccount.resources
